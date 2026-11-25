@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>My Website</title
+</head>
+<body>
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Alter</th>
+            <th>E-Mail</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> Hanz</td>
+            <td> 55</td>
+            <td>hanz@ka.de</td>
+
+        </tr>
+<tr>
+    <td>Otto </td>
+    <td>88</td>
+    <td>otto@ka.de</td>
+</tr>
+<tr>
+    <td> Gunter</td>
+    <td>99</td>
+    <td>Gunter@ka.de</td>
+</tr>
+
+
+
+    </tbody>
+    </table>
+</body>
+</html>
+
